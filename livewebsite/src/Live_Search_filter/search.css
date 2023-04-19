@@ -1,0 +1,14 @@
+.search{
+     
+     margin-left: 464px;
+     font-size: 24px;
+}
+.imgs{
+     display: flex;
+     justify-content: center;
+}
+.imgs img{
+     margin-top: 15px;
+     border-radius: 23px;
+     box-shadow: 8px 10px 12px 7px rgba(0, 0, 0, 0.699);
+}

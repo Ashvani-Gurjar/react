@@ -1,0 +1,38 @@
+body{
+     background-color: rgb(199, 197, 197);
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     margin-top: 150px;
+}
+h1{
+     font-size: 100px;
+     font-family: 'Times New Roman', Times, serif;
+     margin-bottom: 20px;
+}
+.btn{
+     border: 2px solid white;
+     background-color: rgb(174, 105, 238);
+     border-radius: 5px;
+     margin: 23px 23px;
+     margin-left: 23px;
+     text-align: center;
+     align-items: center;
+     font-size: xx-large;
+     color: white;
+     font-style: normal;
+     font-family: 'Courier New', Courier, monospace;
+}
+#ids{
+    width: 750px;
+    padding: 15px 20px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+    font-size: 44px;
+
+}

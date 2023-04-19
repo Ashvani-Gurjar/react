@@ -1,0 +1,22 @@
+body{
+     background-color: aqua;
+     display: flex;
+     justify-content: center;
+     
+}
+.container{
+     margin:40vh;
+     width: 500px;
+     height: 70px;
+     background-color: rgb(247, 234, 198);
+     border-radius: 15px;
+     text-align: center;
+     justify-items: center;
+     text-justify: auto;
+     justify-content: center;
+  
+
+}
+.container h1{
+     padding: 20px 20px;
+}

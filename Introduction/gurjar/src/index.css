@@ -1,0 +1,25 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+.heading{
+     margin-top: 23px;
+     color: peru;
+      text-align: center;
+      text-transform: capitalize;
+      font-weight: bold;
+      text-shadow: 0px 2px 4px green;
+      font-family: 'Climate Crisis', cursive;
+}
+.img_id{
+       display: flex;
+       margin: 23px;
+       justify-content: center;
+}
+.img_id img{
+       width: 200px;
+       height: 250px;
+       margin: 23px;
+}
